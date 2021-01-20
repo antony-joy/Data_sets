@@ -1,2 +1,2 @@
 # simple-python
-this is my first repositry
+this is my first ever repositry
