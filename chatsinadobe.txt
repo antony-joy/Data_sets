@@ -1,0 +1,332 @@
+Rushi Patel: voice is breaking
+Venkat Ramana Panagari 964: understood
+Phanindra Mallisetty 186: ok
+Gaurav Nanda 965: Would explain these topics in detail later?
+Rushi Patel: no
+Jaspreet kaur221 2: okk 
+Vaibhav_Upadhyay_804295: Are you gonna teach us in next term too?
+Anju Balan: Great
+Gaurav Nanda 965: oh great!!
+Aarushi Pandey: interesting
+Rushi Patel: good que Vaibhav
+Vaibhav_Upadhyay_804295: Are you gonna teach us in next term too?
+Harsh Shah: that will be helpful
+Rushi Patel: Are you gonna teach us in next term too?
+Harsh Shah: is it a possibility that the data source is changed if the Algo results are not good?
+Harsh Shah: does it happen in real time i mean
+Akshar_Patel_309: Is today's session getting recorded???
+Moez Ali: inference
+Gaurav Nanda 965: no
+Harsh Shah: okay
+Bilal Ahmed: God saved us :p
+Akshar_Patel_309: Yup
+Gurmanjot Cheema 810: week 8
+Rushi Patel: week 8
+Gaurav Nanda 965: yeah
+Jaspreet kaur221 2: yes
+Anju Balan: Akshar - Good job!
+Rushi Patel: No problem moez
+Harsh Shah: How did california come if its not in sentance?
+Venkat Ramana Panagari 964: basically mode
+Albin John 634: bag of words maybe
+Harsh Shah: okay
+Gazaldeep Kaur: yeah right
+Bilal Ahmed: no
+Thi Truc Van Tran C0793997: me
+Gurmanjot Cheema 810: yes
+Vaibhav_Upadhyay_804295: yes
+Gazaldeep Kaur: me
+You: Me
+Harsh Shah: i have an idea i might
+Venkat Ramana Panagari 964: Yes
+Bilal Ahmed: me
+yugandhar: me
+Bilal Ahmed: vision application is fun
+Gurmanjot Cheema 810: right
+Phanindra Mallisetty 186: because it is not recorded so could u repeat image data
+Phanindra Mallisetty 186: ok
+Harsh Shah: New and yoors
+Harsh Shah: york*
+Anju Balan: right
+Gaurav Nanda 965: yes
+Albin John 634: yeah
+Gazaldeep Kaur: yes
+Jaspreet kaur221 2: yes
+You: yes
+Aarushi Pandey: yes
+Gurmanjot Cheema 810: we can make n-grams at character level too?
+Anju Balan: can we combine these two concepts in one ? to use bigrams and single words?
+Gurmanjot Cheema 810: okay yeah
+Anju Balan: Okay 
+Gurmanjot Cheema 810: maybe for text to speech conversion i guess
+Gurmanjot Cheema 810: yeah got it
+yugandhar: 0
+Anju Balan: 0-255
+Harsh Shah: 0
+Jaspreet kaur221 2: 0
+Phanindra Mallisetty 186: yeah
+Phanindra Mallisetty 186: thank u
+Vaibhav_Upadhyay_804295: each pixel on screen is having one array containing 3 interger values each from 0 to 255 and gives intensity of RGB
+Harsh Shah: yes
+Vaibhav_Upadhyay_804295: yes Moez
+Venkata Sai Gunda_C0803142: how it is going to identify the color
+yugandhar: (255,255,255) 
+Anju Balan: RGB primary colours
+Anju Balan: they make every colors
+Phanindra Mallisetty 186: custom
+Phanindra Mallisetty 186: color
+Harsh Shah: Various RGB combinations will give different colors 
+Venkata Sai Gunda_C0803142: oka
+yugandhar: we can use hexcode also right 
+Harsh Shah: also Hex codes of colors
+Vaibhav_Upadhyay_804295: taking combination of 3 integer value like  (255,255,255) gives you the black color
+Gazaldeep Kaur: to get the exact shade
+Harsh Shah: https://www.rapidtables.com/web/color/RGB_Color.html#:~:text=RGB%20color%20space%20or%20RGB,Red%2C%20Green%20and%20Blue%20colors.&text=This%20makes%20256*256*256,LEDs%20(light%20emitting%20diodes).
+yugandhar: yes
+Harsh Shah: Yes
+Gurmanjot Cheema 810: we use gradients to make combinations with these colours
+Vaibhav_Upadhyay_804295: yes... in android, we can specify hex code to give color to text
+Phanindra Mallisetty 186: no
+Aarushi Pandey: no
+Gurmanjot Cheema 810: no..clear
+Harsh Shah: nope
+Anju Balan: nope
+yugandhar: all clear
+Gazaldeep Kaur: clear
+Harsh Shah: scaling
+Bilal Ahmed: normalization
+Anju Balan: scaling
+Gurmanjot Cheema 810: yeah
+Bilal Ahmed: why we do scaling, how it helps?
+Bilal Ahmed: ok
+Gazaldeep Kaur: yes
+Gurmanjot Cheema 810: yes
+Harsh Shah: yes
+Anju Balan: yes
+Aarushi Pandey: yes
+yugandhar: yes
+Bilal Ahmed: yes
+Bilal Ahmed: no
+Gurmanjot Cheema 810: no
+Harsh Shah: no
+Anju Balan: no
+Aarushi Pandey: no
+Gazaldeep Kaur: no
+Krishna kanth: no
+Gaurav Nanda 965: no
+Dhruv Panchal 139: no
+Thi Truc Van Tran C0793997: no
+Phanindra Mallisetty 186: noo
+Bilal Ahmed: extreme values
+Bilal Ahmed: rare 
+Harsh Shah: it will change the mean
+yugandhar: unique data will exist
+Harsh Shah: false average
+Gurmanjot Cheema 810: count of those value is low
+Bilal Ahmed: so outlier depends on use case or context 
+Bilal Ahmed: highest peak
+Phanindra Mallisetty 186: no
+Gurmanjot Cheema 810: no
+Anju Balan: no
+Gazaldeep Kaur: no
+yugandhar: no
+Aarushi Pandey: n
+Anju Balan: no
+Gazaldeep Kaur: no
+Rutuja: no
+Harsh Shah: no outliers
+Venkata Sai Gunda_C0803142: no
+Thi Truc Van Tran C0793997: no
+Karthikeyan Mohan: no
+yugandhar: no
+Anju Balan: no
+Krishna kanth: no
+Aarushi Pandey: no
+Devi Priyanka Kanakamedala c0805095: no
+Harsh Shah: can you please tell the axes names
+Bilal Ahmed: seasonal trends
+Harsh Shah: ok
+Anju Balan: ok
+Gazaldeep Kaur: ok
+Venkat Ramana Panagari 964: yes
+Anju Balan: outlier is always the unexpected value for the instance ?
+Bilal Ahmed: no
+yugandhar: no
+Phanindra Mallisetty 186: no
+Devi Priyanka Kanakamedala c0805095: no
+Anju Balan: yes
+Anju Balan: ok
+Gurmanjot Cheema 810: need more data then 
+Anju Balan: add more uniquely identifie]able attributes
+Harsh Shah: Remove the lier
+Anju Balan: *add uniquely identifiable attributes
+Vaibhav_Upadhyay_804295: need more data on this
+Gazaldeep Kaur: more attributes, i think
+Jaspreet kaur221 2: unique id
+Harsh Shah: check defaulters in nearby range or vice versa
+Bilal Ahmed: get big sample set
+Venkat Ramana Panagari 964: index numbers 
+Jaspreet kaur221 2: okk okk
+Bilal Ahmed: then it's big question
+Bilal Ahmed: yes possible
+Harsh Shah: yes
+Gurmanjot Cheema 810: yes
+Anju Balan: yes
+Gazaldeep Kaur: yes
+Aarushi Pandey: yes
+Karthikeyan Mohan: yes
+Gaurav Nanda 965: yes
+Albin John 634: yes
+yugandhar: yes
+Phanindra Mallisetty 186: yes
+Anju Balan: yes
+Vaibhav_Upadhyay_804295: but other attributes may vary
+Harsh Shah: rarity increases
+Albin John 634: yes
+Anju Balan: yes
+Bilal Ahmed: yes
+Gurmanjot Cheema 810: yes
+Aarushi Pandey: yes
+Gazaldeep Kaur: yes
+Albin John 634: yes
+yugandhar: yes
+Venkat Ramana Panagari 964: Yes
+Vaibhav_Upadhyay_804295: yes
+Bilal Ahmed: yes
+Vaibhav_Upadhyay_804295: 44
+yugandhar: yes
+Aarushi Pandey: yes
+Thi Truc Van Tran C0793997: yes
+Rutuja: yes
+Gazaldeep Kaur: yes
+Phanindra Mallisetty 186: it means we delete the data
+Harsh Shah: again same concept of whether to impute or remove missing rows
+Bilal Ahmed: what if we don't have an option to drop?
+Vaibhav_Upadhyay_804295: how to remove conflicting data
+Bilal Ahmed: ok
+Bilal Ahmed: how we check this kind of similarity in python is there method in pandas?
+Harsh Shah: we can find the other rows that are in the same range as one of these
+Bilal Ahmed: ok
+Karthikeyan Mohan: group by
+Gurmanjot Cheema 810: so we need to be aware while droppping duplicates?
+Vaibhav_Upadhyay_804295: we can convert list data into set to remove duplicates
+Bilal Ahmed: provide optional parameter
+Bilal Ahmed: if someone want t drop
+Bilal Ahmed: yeah
+Bilal Ahmed: there are a lot of it depends in ML when I started, this makes ML tough to learn.
+Harsh Shah: Do we drop all n duplicate rows or n-1 row ?
+Gaurav Nanda 965: its confusing...
+Gurmanjot Cheema 810: yeah it seems
+Harsh Shah: okay
+Bilal Ahmed: yeah it would help
+Gurmanjot Cheema 810: yeah
+Vaibhav_Upadhyay_804295: yeah 
+Bilal Ahmed: yes good
+yugandhar: enough
+Gurmanjot Cheema 810: good for today
+Albin John 634: enough
+Aarushi Pandey: yeah
+Venkat Ramana Panagari 964: good
+Gazaldeep Kaur: yea
+Gurmanjot Cheema 810: okay
+Harsh Shah: ok
+Dhruv Panchal 139: okay
+Gazaldeep Kaur: hey
+Venkat Ramana Panagari 964: Yes
+Karthikeyan Mohan: Hello
+Gurmanjot Cheema 810: hello
+Aarushi Pandey: hello
+Harsh Shah: hey
+Robin Chhabra C0807098: Hlo
+Devi Priyanka Kanakamedala c0805095:   hello
+Gazaldeep Kaur: yes
+Harsh Shah: yes
+Gurmanjot Cheema 810: yes
+Karthikeyan Mohan: yes
+Venkat Ramana Panagari 964: yes
+yugandhar: yes
+Thi Truc Van Tran C0793997: yes
+Gaurav Nanda 965: yeah
+Dhruv Panchal 139: yes
+Gurmanjot Cheema 810: yes
+Thi Truc Van Tran C0793997: yes
+Devi Priyanka Kanakamedala c0805095: yes
+Gaurav Nanda 965: yea
+Pranay (C0793574): yes
+Harsh Shah: yes
+Gurmanjot Cheema 810: yes
+yugandhar: yes
+Anju Balan: yes
+Dhruv Panchal 139: Yes
+Aarushi Pandey: yes
+Aarushi Pandey: lambton
+Gurmanjot Cheema 810: right
+Gazaldeep Kaur: yes
+Aarushi Pandey: yes
+Harsh Shah: .unique()
+Vaibhav_Upadhyay_804295: yes
+Bilal Ahmed: unique work on numpy array
+Gurmanjot Cheema 810: yes
+Harsh Shah: yes it needs numpy array
+Gazaldeep Kaur: pandas function
+yugandhar: yes
+You: yes
+Anju Balan: yes
+Aarushi Pandey: yes
+Gaurav Nanda 965: yes
+Rutuja: yes
+Gazaldeep Kaur: yes
+Gurmanjot Cheema 810: yes
+Pranay (C0793574): yes
+Karthikeyan Mohan: yes
+Venkat Ramana Panagari 964: yes
+Jaspreet kaur221: yes
+Akshar_Patel_309: use any comma......   "hello, Dear" or something  in text
+Vaibhav_Upadhyay_804295: you can use np.unique(a) where a is numpy array
+Bilal Ahmed: try np.unique(text_list)
+Anju Balan: yes
+Aarushi Pandey: yes
+Karthikeyan Mohan: yes
+yugandhar: yes
+Venkat Ramana Panagari 964: yes
+Bilal Ahmed: yes
+Gurmanjot Cheema 810: yes
+Harsh Shah: yes
+Thi Truc Van Tran C0793997: yes
+Bilal Ahmed: no
+Dhruv Panchal 139: yes
+You: no
+Dhruv Panchal 139: no
+Aarushi Pandey: no
+Gurmanjot Cheema 810: no
+Venkat Ramana Panagari 964: split will be random right
+Venkat Ramana Panagari 964: no need to be same
+Venkat Ramana Panagari 964: Yes 
+Bilal Ahmed: yes
+Karthikeyan Mohan: yes
+yugandhar: string to integer?
+Bilal Ahmed: with reference to dictionary
+Karthikeyan Mohan: its not converted to list
+Harsh Shah: you have to split text2
+Albin John 634: split
+Gazaldeep Kaur: split is not used
+Bilal Ahmed: no
+Albin John 634: no
+yugandhar: clear
+Gazaldeep Kaur: no
+Vaibhav_Upadhyay_804295: no
+Harsh Shah: clear
+NITESH KUMAR 184 2: no
+Devi Priyanka Kanakamedala c0805095: no
+Rutuja: no
+Vaibhav_Upadhyay_804295: no
+Akshar_Patel_309: no
+Dhwanil Gandhi 588: no
+Gurmanjot Cheema 810: yes
+yugandhar: yes
+Gaurav Nanda 965: yeah
+Karthikeyan Mohan: yes
+Aarushi Pandey: yes
+Harsh Shah: i can see last class chat too
+Devi Priyanka Kanakamedala c0805095: yes
+Venkat Ramana Panagari 964: yes
